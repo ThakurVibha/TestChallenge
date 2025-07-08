@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "EasyJet",
+    "country": "United Kingdom",
+    "headquarters": "London Luton Airport",
+    "fleet_size": 342,
+    "website": "https://www.easyjet.com",
+    "logo_url": "https://images.pexels.com/photos/29195350/pexels-photo-29195350.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Jet2",
+    "country": "United Kingdom",
+    "headquarters": "Leeds Bradford Airport",
+    "fleet_size": 119,
+    "website": "https://www.jet2.com",
+    "logo_url": "https://images.pexels.com/photos/31485316/pexels-photo-31485316.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Air India",
+    "country": "India",
+    "headquarters": "New Delhi",
+    "fleet_size": 120,
+    "website": "https://www.airindia.com",
+    "logo_url": "https://images.pexels.com/photos/32112252/pexels-photo-32112252.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "IndiGo",
+    "country": "India",
+    "headquarters": "Gurugram",
+    "fleet_size": 350,
+    "website": "https://www.goindigo.in",
+    "logo_url": "https://images.pexels.com/photos/31447108/pexels-photo-31447108.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Singapore Airlines",
+    "country": "Singapore",
+    "headquarters": "Singapore",
+    "fleet_size": 158,
+    "website": "https://www.singaporeair.com",
+    "logo_url": "https://images.pexels.com/photos/17884635/pexels-photo-17884635.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Lufthansa",
+    "country": "Germany",
+    "headquarters": "Cologne",
+    "fleet_size": 275,
+    "website": "https://www.lufthansa.com",
+    "logo_url": "https://images.pexels.com/photos/27016011/pexels-photo-27016011.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Delta Air Lines",
+    "country": "United States",
+    "headquarters": "Atlanta, Georgia",
+    "fleet_size": 910,
+    "website": "https://www.delta.com",
+    "logo_url": "https://images.pexels.com/photos/3623679/pexels-photo-3623679.jpeg"
+  },
+  {
+    "id": "8",
+    "name": "Emirates",
+    "country": "United Arab Emirates",
+    "headquarters": "Dubai",
+    "fleet_size": 270,
+    "website": "https://www.emirates.com",
+    "logo_url": "https://images.pexels.com/photos/13034092/pexels-photo-13034092.jpeg"
+  },
+  {
+    "id": "9",
+    "name": "Qatar Airways",
+    "country": "Qatar",
+    "headquarters": "Doha",
+    "fleet_size": 234,
+    "website": "https://www.qatarairways.com",
+    "logo_url": "https://images.pexels.com/photos/3623679/pexels-photo-3623679.jpeg"
+  },
+  {
+    "id": "10",
+    "name": "British Airways",
+    "country": "United Kingdom",
+    "headquarters": "London",
+    "fleet_size": 277,
+    "website": "https://www.britishairways.com",
+    "logo_url": "https://images.pexels.com/photos/3623679/pexels-photo-3623679.jpeg"
+  },
+  {
+    "id": "11",
+    "name": "American Airlines",
+    "country": "United States",
+    "headquarters": "Fort Worth, Texas",
+    "fleet_size": 933,
+    "website": "https://www.aa.com",
+    "logo_url": "https://images.pexels.com/photos/321159/pexels-photo-321159.jpeg"
+  },
+  {
+    "id": "12",
+    "name": "United Airlines",
+    "country": "United States",
+    "headquarters": "Chicago, Illinois",
+    "fleet_size": 891,
+    "website": "https://www.united.com",
+    "logo_url": "https://images.pexels.com/photos/175656/pexels-photo-175656.jpeg"
+  },
+  {
+    "id": "13",
+    "name": "Air France",
+    "country": "France",
+    "headquarters": "Paris",
+    "fleet_size": 212,
+    "website": "https://www.airfrance.com",
+    "logo_url": "https://images.pexels.com/photos/3623679/pexels-photo-3623679.jpeg"
+  },
+  {
+    "id": "14",
+    "name": "KLM Royal Dutch Airlines",
+    "country": "Netherlands",
+    "headquarters": "Amstelveen",
+    "fleet_size": 120,
+    "website": "https://www.klm.com",
+    "logo_url": "https://images.pexels.com/photos/3623679/pexels-photo-3623679.jpeg"
+  },
+  {
+    "id": "15",
+    "name": "Turkish Airlines",
+    "country": "Turkey",
+    "headquarters": "Istanbul",
+    "fleet_size": 372,
+    "website": "https://www.turkishairlines.com",
+    "logo_url": "https://images.pexels.com/photos/12560712/pexels-photo-12560712.jpeg"
+  },
+  {
+    "id": "16",
+    "name": "Air Canada",
+    "country": "Canada",
+    "headquarters": "Montreal",
+    "fleet_size": 168,
+    "website": "https://www.aircanada.com",
+    "logo_url": "https://images.pexels.com/photos/10844104/pexels-photo-10844104.jpeg"
+  },
+  {
+    "id": "17",
+    "name": "ANA (All Nippon Airways)",
+    "country": "Japan",
+    "headquarters": "Tokyo",
+    "fleet_size": 238,
+    "website": "https://www.ana.co.jp",
+    "logo_url": "https://images.pexels.com/photos/19331901/pexels-photo-19331901.jpeg"
+  },
+  {
+    "id": "18",
+    "name": "Japan Airlines",
+    "country": "Japan",
+    "headquarters": "Tokyo",
+    "fleet_size": 156,
+    "website": "https://www.jal.co.jp",
+    "logo_url": "https://images.pexels.com/photos/32856548/pexels-photo-32856548.jpeg"
+  },
+  {
+    "id": "19",
+    "name": "Etihad Airways",
+    "country": "United Arab Emirates",
+    "headquarters": "Abu Dhabi",
+    "fleet_size": 101,
+    "website": "https://www.etihad.com",
+    "logo_url": "https://images.pexels.com/photos/11136992/pexels-photo-11136992.jpeg"
+  },
+  {
+    "id": "20",
+    "name": "Thai Airways",
+    "country": "Thailand",
+    "headquarters": "Bangkok",
+    "fleet_size": 80,
+    "website": "https://www.thaiairways.com",
+    "logo_url": "https://images.pexels.com/photos/32877118/pexels-photo-32877118.jpeg"
+  }
+]
