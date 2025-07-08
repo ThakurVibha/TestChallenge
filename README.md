@@ -1,4 +1,3 @@
-# ✈️ Airlines Explorer App
 
 An Android app to explore airline data using Jetpack Compose, Kotlin, MVVM, Hilt, and Moshi. Data is loaded from a local JSON file in the assets folder.
 
