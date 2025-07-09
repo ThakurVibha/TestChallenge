@@ -32,7 +32,7 @@ An Android app to explore airline data using Jetpack Compose, Kotlin, MVVM, Hilt
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/thakurvibha/AirlineExplorerAssignment.git
+git clone https://github.com/thakurvibha/AirlineExplorerAssignment.git
 
 ## 📸 Screenshots
 
